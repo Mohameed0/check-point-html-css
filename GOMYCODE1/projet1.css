@@ -1,0 +1,45 @@
+.title{
+display: flex;
+}
+h1{
+    color: white;
+    background-image: url(images/p3.jpg);
+  margin: inherit;
+  border: 2px solid black;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px
+}
+
+
+.navb{
+    display: flex;
+}
+main{
+    border: 1px ottded black;
+    width: 100%;
+    height: 950px;
+    background-color: orange;
+}
+footer{
+    
+    border: 1px solid black;
+background-image: url(images/p5.png);
+    width: 100%;
+    height: 200px;
+    margin: 0%;
+}
+.gift{
+    color: white;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-top: 0%;
+}
+.email{
+    
+  display: flex;
+    
+    
+}

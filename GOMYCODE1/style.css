@@ -1,0 +1,51 @@
+.header
+{
+    width: 100%px;
+    height: 80px;
+    display: block;
+    background-image: url("images/image2.jpeg");
+
+}
+.inner_header{
+    width: 500px;
+    height: 80px;
+    display: block;
+    margin: 0 auto;
+    background-color: orange;
+}
+.logo
+{
+    height: 100%;
+    display: table;
+    float: left;
+}
+li{
+font-style: italic;
+display: inline;
+}
+main{
+    width: 100%;
+    height: 1505px;
+    display: block;
+    background: url(images/image7.gif) left top no-repeat, url(images/image8.gif) right bottom no-repeat, url(paper.gif) left top repeat;
+  background-size: 50px, 130px, auto;
+}
+}
+footer{
+margin: 0px 0px 0px 0px;
+background-color: rgb(0, 0, 0);
+width: 100%;
+height: 80px;
+}
+lis{
+    font-style: italic;
+    display: inline;
+  }
+h3{
+    roboto
+}
+.px{
+   padding-left: 300px;
+   margin-top: 50px;
+   border: 1px solid #4CAF50;
+}
